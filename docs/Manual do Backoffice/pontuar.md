@@ -1,8 +1,8 @@
----
-sidebar_position: 7
----
 
-# PONTUAÇÃO
+
+
+
+# PONTUAR COMPETIÇÃO
 
 :::note COMO FUNCIONA A PONTUAÇÃO?
 
@@ -39,32 +39,20 @@ OBS: Em caso de empate, o prêmio é dividido entre os ganhadores
 
 :::
 
-## PÁGINA DE PONTUAÇÃO
+## COMO INSERIR A PONTUAÇÃO DOS CAVALOS NA COMPETIÇÃO?
 
-### 1. Clique no ícone de "Pontuação" no mural
+### 1. Clique em "Gerenciar pontuação"
 
-![Pontuação](/img/Plataforma/mural3.png)
+### 2. Selecione uma Competição e uma categoria
 
-### 2. Veja o histórico de Pontuações nas competições em que participou
+![Pontuação](/img/backoffice/ponto1.png)
 
-- Veja a pontuação e a colocação de Competições passadas
+### 3. Insira a colocação de cada Cavalo
 
-### 3. Para saber mais sobre a pontuação de uma competição, clique no ícone de "+"
+- 2 cavalos não podem ter a mesma colocação
 
-![Pontuação](/img/Plataforma/ponto1.png)
+![Pontuação](/img/backoffice/ponto2.png)
 
-### 4. Veja a pontuação nas categorias na competição selecionada
+### 4. Clique em "Enviar"
 
-### 5. Para saber os detalhes da competição, clique em "Detalhes"
-
-![Pontuação](/img/Plataforma/ponto2.png)
-
-### 6. Veja os detalhes da competição
-
-### 7. Para ver a comparação entre o seu time e o time vencedor em cada categoria, clique em "Detalhes"
-
-![Pontuação](/img/Plataforma/ponto3.png)
-
-### 8. Veja a comparação entre o seu time e os cavalos vencedores
-
-![Pontuação](/img/Plataforma/ponto4.png)
+![Pontuação](/img/backoffice/ponto3.png)

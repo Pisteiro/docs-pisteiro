@@ -1,16 +1,17 @@
-# Website
+# PISTEIRO
+
+[![Docusaurus](static/img/docusaurus.png)](https://docusaurus.io/)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://nodejs.org/en/download/) [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://classic.yarnpkg.com/en/docs/install)
 
-```
-$ yarn
-```
 
 ### Local Development
 
 ```
+$ npm run start
 $ yarn start
 ```
 
@@ -19,6 +20,7 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
+$ npm run build
 $ yarn build
 ```
 

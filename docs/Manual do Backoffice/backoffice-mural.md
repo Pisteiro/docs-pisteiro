@@ -40,6 +40,10 @@ sidebar_position: 3
 
 ![Mural](/img/backoffice/mural5.png)
 
+### GERENCIAR PONTUAÇÕES
+
+- Você acessa a area de gerenciamento de pontuações dos campeonatos
+
 ## COMPOSIÇÃO DO MURAL
 
 - O mural é composto por:

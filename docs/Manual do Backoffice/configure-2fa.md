@@ -10,8 +10,9 @@ sidebar_position: 2
 
 - Para **HABILITAR** a autenticação de 2 fatores:
 
-### 1. Clique em ..........................
+### 1. Clique no ícone do Perfil
 
+![2FA](/img/backoffice/2fa6.png)
 
 ### 2. Caso a autenticação em 2 fatores esteja desabilitada
 
@@ -31,7 +32,9 @@ sidebar_position: 2
 
 - Para **DESATIVAR** a autenticação de 2 fatores:
 
-### 1. Clique em ..........................
+### 1. Clique no ícone do Perfil
+
+![2FA](/img/backoffice/2fa6.png)
 
 ### 2. Insira o seu código de autenticação e sua senha
 

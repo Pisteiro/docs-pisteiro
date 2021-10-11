@@ -1,4 +1,4 @@
-// @ts-check
+/// @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PISTEIRO',
-  tagline: '',
+  title: 'Pisteiro',
+  tagline: 'Pisteiro',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'pisteiro', // Usually your GitHub org/user name.
+  organizationName: 'Pisteiro', // Usually your GitHub org/user name.
   projectName: 'docs-pisteiro', // Usually your repo name.
 
   presets: [
@@ -21,6 +21,13 @@ const config = {
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        docs: {
+          path: 'docs',
+          routeBasePath: '/',          
+          sidebarPath: require.resolve('./sidebars.js'),
+          // Please change this to your repo.
+          editUrl: 'https://github.com/Pisteiro/docs-pisteiro',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -32,31 +39,44 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Pisteiro',
+        title: '  PISTEIRO',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Pisteiro Logo',
+          src: 'img/logo-pisteiro.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'my-home-doc',
             position: 'left',
-            label: 'Manuais',
+            label: 'WiKi',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://github.com/Pisteiro/docs-pisteiro',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
-      },
+      },    
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Site',
+            title: 'Docs',
+            items: [
+              {
+                label: 'WiKi',
+                to: '/',
+              },
+            ],
+          },
+          {
+            title: 'Community',
             items: [
               {
                 label: 'Pisteiro',
-                href: 'https://www.pisteiro.com',
-              },
+                href: 'https://www.pisteiro.com/',
+              }
             ],
           },
         ],

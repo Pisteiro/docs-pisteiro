@@ -4,6 +4,7 @@ sidebar_position: 1
 
 # CADASTRO
 
+
 ## COMO ME CADASTRAR?
 
 ### 1. Acesse: www.pisteiro.com

@@ -18,7 +18,7 @@
 
 ### 2. Inserir descrição 
 
-![Login](/img/backoffice/descrição.png)
+![Login](/img/backoffice/descricao.png)
 
 ### 3. Inserir Permissões 
 

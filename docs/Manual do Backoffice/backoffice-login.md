@@ -12,12 +12,6 @@ sidebar_position: 1
 
 ![Login](/img/backoffice/login1.png)
 
-### 3. Um código de validação foi enviado para você, verifique o seu Email
-
-### 4. Insira o código de validação
+### 5. Clique em "Entrar"
 
 ![Login](/img/backoffice/login2.png)
-
-### 5. Clique em "Confirmar"
-
-![Login](/img/backoffice/login3.png)

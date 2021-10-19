@@ -23,6 +23,8 @@ Se você acertou as seguintes posições, você ganha os seguintes pontos:
 | 3 | 14 |
 | 4 | 12 |
 | 5 | 10 |
+| =<6 | 0 |
+
 
 Caso o usuário tenha acertado 3 cavalos ou mais, ele recebera um bonûs de acordo com o numero de acertos.
 
@@ -39,20 +41,26 @@ OBS: Em caso de empate, o prêmio é dividido entre os ganhadores
 
 :::
 
-## COMO INSERIR A PONTUAÇÃO DOS CAVALOS NA COMPETIÇÃO?
+## COMO INSERIR A PONTUAÇÃO DOS CAVALOS NO CAMPEONATO?
 
-### 1. Clique em "Gerenciar pontuação"
+### 1. Clique em Campeonatos no superior da tela
 
-### 2. Selecione uma Competição e uma categoria
+### 2. Clique no icone de setas em um campeonato
 
-![Pontuação](/img/backoffice/ponto1.png)
+![Campeonato](/img/backoffice/campeonato9.png)
 
-### 3. Insira a colocação de cada Cavalo
+### 3. Clique no icone de setas da categoria
 
-- 2 cavalos não podem ter a mesma colocação
+![Categoria](/img/backoffice/categoria8.png)
 
-![Pontuação](/img/backoffice/ponto2.png)
+### 4. Clique em "Pontuação"
 
-### 4. Clique em "Enviar"
+![Pontuação](/img/backoffice/pontuar1.png)
 
-![Pontuação](/img/backoffice/ponto3.png)
+### 5. Insira a pontuação dos cavalos
+
+![Pontuação](/img/backoffice/pontuar2.png)
+
+### 6. Clique em enviar
+
+![Pontuação](/img/backoffice/pontuar3.png)

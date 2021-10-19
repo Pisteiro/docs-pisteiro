@@ -46,3 +46,14 @@ Quando clicar em "Campeonatos" no canto superior, abrira a lista de campeonatos 
 
 ![Campeonato](/img/backoffice/campeonato10.png)
 
+### 3. Clique em "Salvar"
+
+## COMO CALCULAR O RANKING DO CAMPEONATO?
+
+### 1. Clique em Ranking
+
+![Campeonato](/img/backoffice/campeonato11.png)
+
+### 2. Clique em "Calcular ranking campeonato"
+
+![Campeonato](/img/backoffice/campeonato12.png)

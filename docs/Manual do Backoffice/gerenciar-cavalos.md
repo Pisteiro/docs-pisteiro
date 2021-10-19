@@ -1,55 +1,57 @@
 # GERENCIAR CAVALOS
 
+:::note COMO É GERADO O VALOR DO CAVALO?
+
+O valor base de todo cavalo é **50**, mas muda de acordo com o numero de vezes que foi:
+
+- Campeão da categoria em campeonatos **nacionais**.
+- Campeão dos campeões em campeonatos **nacionais** e **regionais**.
+
+| Campeonato | Multiplicador de **Pontos** |
+| ---------- | --------------------------- |
+| Campeão nacional | x5 |
+| Campeão dos campeões | x1 |
+
+**Exemplo:**
+
+| Cavalo | Campeão nacional(vezes) | Campeão dos campeões(vezes) | Valor |
+| ------ | ----------------------- | --------------------------- | ----- |
+| Cavalo 1 | 1 | 0 | 55 |
+| Cavalo 2 | 2 | 3 | 63 |
+| Cavalo 3 | 1 | 1 | 56 |
+
+:::
+
+## COMO ACESSAR A LISTA DE CAVALOS?
+
 ### 1. Acessar a página "gerenciar cavalos", localizada no menu superior da plataforma: 
 
 ![Login](/img/backoffice/home.png)
 
-### 2. Inserir nome do cavalo
+## COMO CADASTRAR UM NOVO CAVALO?
 
-![Login](/img/backoffice/nomedocavalo.png)
+### 1. Clique em "Cadastrar cavalo"
 
-### 3. Inserir pelagem e tipo do cavalo
+![Login](/img/backoffice/cavalo1.png)
 
-![Login](/img/backoffice/pelagemdocavalo.png)
-![Login](/img/backoffice/tipodocavalo.png)
+### 2. Insira todos os parâmetros
 
-### 4. Inserir nome do mãe e do pai 
+![Login](/img/backoffice/cavalo2.png)
 
-![Login](/img/backoffice/mãe.png)
-![Login](/img/backoffice/pai.png)
+### 3. Clique em "Salvar"
 
-### 5. Inserir data de nascimento
+![Login](/img/backoffice/cavalo3.png)
 
-![Login](/img/backoffice/nascimento.png)
+## COMO EDITAR UM CAVALO?
 
-### 6. Inserir categoria
+### 1. Clique no icone de lapis no cavalo que deseja editar
 
-![Login](/img/backoffice/categoriacavalo.png)
+![Login](/img/backoffice/cavalo4.png)
 
-### 7. Inserir o número de vezes que foi campeão nacional 
+### 2. Altere o parâmetro que desejar
 
-![Login](/img/backoffice/xcampeão.png)
+![Login](/img/backoffice/cavalo5.png)
 
-### 8. Inserir o número de vezes em que foi campeão dos campeões
+### 3. Clique em "Salvar" 
 
-![Login](/img/backoffice/xcampeãodoscampeões.png)
-
-### 9. Inserir o criador 
-
-![Login](/img/backoffice/pai.png)
-
-### 10. Inserir o expositor 
-
-![Login](/img/backoffice/expositor.png)
-
-### 11. Verirficar status 
-
-![Login](/img/backoffice/statuscavalo.png)
-
-### 12. Upload de imagem (opcional)
-
-![Login](/img/backoffice/upload.png)
-
-### 13. Salvar registro de cavalo 
-
-![Login](/img/backoffice/salvarcavalo.png) 
+![Login](/img/backoffice/cavalo6.png)

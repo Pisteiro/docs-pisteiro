@@ -50,10 +50,14 @@ sidebar_position: 4
 
 - O usuário poderá entrar em qualquer competição
 
+- Você pode navegar entre as páginas para ver todos os campeonatos
+
 ![Mural](/img/Plataforma/mural6.png)
 
 ## CAVALOS EM DESTAQUE
 
 - Area onde são destacados os cavalos mais comprados no Pisteiro
+
+- Você pode navegar entre as páginas para ver todos os cavalos em destaque
 
 ![Mural](/img/Plataforma/mural7.png)

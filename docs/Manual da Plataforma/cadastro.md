@@ -8,41 +8,45 @@ sidebar_position: 1
 
 ### 1. Acesse: www.pisteiro.com
 
-### 2. Clique em **"Nova conta"**, "Quero concorrer", etc.
+### 2. Clique em "Cadastrar"
 
-![SignUp](/img/Plataforma/SignUp1.png)
+![SignUp](/img/Plataforma/cadastrar.png)
 
 ### 3. Insira suas informações
 
-![SignUp](/img/Plataforma/SignUp2.png)
+![SignUp](/img/Plataforma/iniciar.png)
 
-### 4. Caso queira concorrer a prêmios, clique em "Quero concorrer a premiações"
+### 4. Clique em "Li e aceito os termos de uso"
 
-![SignUp](/img/Plataforma/SignUp3.png)
+![SignUp](/img/Plataforma/termos.png)
 
-### 4.1. Insira seu CPF
+### 5. Clique em "Cadastar"
 
-![SignUp](/img/Plataforma/SignUp4.png)
+![SignUp](/img/Plataforma/cadastrar2.png)
 
-### 5. Clique em "Li e aceito os termos de uso"
+### 6. Verifique o código enviado para o seu seu Email ou Celular
 
-![SignUp](/img/Plataforma/SignUp5.png)
+### 7. Insira seu Email ou Celular (onde foi enviado o código)
 
-### 6. Clique em "Cadastar"
+![SignUp](/img/Plataforma/emailcelular.png)
 
-![SignUp](/img/Plataforma/SignUp6.png)
+### 8. Insira o código recebido
 
-### 7. Verifique o código enviado para o seu seu Email ou Celular
+![SignUp](/img/Plataforma/verificarcodigo2.png)
 
-### 8. Insira seu Email ou Celular (onde foi enviado o código)
+### 9. Clique em "Verificar"
 
-![SignUp](/img/Plataforma/SignUp7.png)
+![SignUp](/img/Plataforma/clicarverificar.png)
 
-### 9. Insira o código recebido
+### 10. Faça o Login no site
 
-![SignUp](/img/Plataforma/SignUp8.png)
+![SignUp](/img/Plataforma/loginnovamente.png)
 
-### 10. Clique em "Verificar"
+### 11. Complete seu cadastro com nome, sobrenome e apelido 
 
-![SignUp](/img/Plataforma/SignUp9.png)
+![SignUp](/img/Plataforma/bemvindo.png)
+
+### 12. Aceite os termos novamente 
+
+![SignUp](/img/Plataforma/termosnovamente.png)
 

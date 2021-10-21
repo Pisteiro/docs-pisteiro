@@ -80,7 +80,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Pisteiro. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Pisteiro. Built with ❤ by BlockFactory.`,
       },
       prism: {
         theme: lightCodeTheme,

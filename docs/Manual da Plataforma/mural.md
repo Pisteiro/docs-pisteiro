@@ -60,4 +60,4 @@ sidebar_position: 4
 
 - Você pode navegar entre as páginas para ver todos os cavalos em destaque
 
-![Mural](/img/Plataforma/mural7.png)
+![Mural](/img/Plataforma/mural7certo.png)

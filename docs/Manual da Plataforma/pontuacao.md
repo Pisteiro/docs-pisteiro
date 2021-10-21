@@ -1,8 +1,8 @@
+---
+sidebar_position: 7
+---
 
-
-
-
-# PONTUAR COMPETIÇÃO
+# PONTUAÇÃO
 
 :::note COMO FUNCIONA A PONTUAÇÃO?
 
@@ -23,8 +23,6 @@ Se você acertou as seguintes posições, você ganha os seguintes pontos:
 | 3 | 14 |
 | 4 | 12 |
 | 5 | 10 |
-| =<6 | 0 |
-
 
 Caso o usuário tenha acertado 3 cavalos ou mais, ele recebera um bonûs de acordo com o numero de acertos.
 
@@ -41,26 +39,26 @@ OBS: Em caso de empate, o prêmio é dividido entre os ganhadores
 
 :::
 
-## COMO INSERIR A PONTUAÇÃO DOS CAVALOS NO CAMPEONATO?
+## PÁGINA DE PONTUAÇÃO
 
-### 1. Clique em Campeonatos no superior da tela
+### 1. Clique no ícone de "Pontuação" no mural
 
-### 2. Clique no icone de setas em um campeonato
+![Mural](/img/Plataforma/mural3.png)
 
-![Campeonato](/img/backoffice/campeonato9.png)
+### 2. Veja o histórico de Pontuações nas competições em que participou
 
-### 3. Clique no icone de setas da categoria
+- Veja a pontuação e a colocação de Competições passadas
 
-![Categoria](/img/backoffice/categoria8.png)
+### 3. Para saber mais sobre a pontuação de uma competição, clique no ícone de seta
 
-### 4. Clique em "Pontuação"
+![Pontuação](/img/Plataforma/ponto1.png)
 
-![Pontuação](/img/backoffice/pontuar1.png)
+### 4. Veja a pontuação nas categorias na competição selecionada
 
-### 5. Insira a pontuação dos cavalos
+### 5. Para ver a comparação entre o seu time e o time vencedor em cada categoria, clique em "Detalhes"
 
-![Pontuação](/img/backoffice/pontuar2.png)
+![Pontuação](/img/Plataforma/ponto2.png)
 
-### 6. Clique em enviar
+### 6. Veja a comparação entre o seu time e os cavalos vencedores
 
-![Pontuação](/img/backoffice/pontuar3.png)
+![Pontuação](/img/Plataforma/ponto3.png)

@@ -8,7 +8,7 @@ sidebar_position: 3
 
 ### 1. Acesse a tela de Login (https://www.pisteiro.com/account/sign-in)
 
-### 2. Clique em "Esqueceu a senha?"
+### 2. Clique em Entrar, emm seguida em "Esqueceu a senha?"
 
 ![Reset](/img/Plataforma/Reset1.png)
 

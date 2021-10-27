@@ -12,11 +12,11 @@ sidebar_position: 2
 
 ![Login](/img/Plataforma/Home.png)
 
-### 3. Insira seu EMAIL ou CELULAR
+### 3. Insira seu EMAIL 
 
 ![Login](/img/Plataforma/Login1.png)
 
-### 4. Após inserir seu Email ou Celular, insira sua SENHA
+### 4. Após inserir seu Email, insira sua SENHA
 
 ![Login](/img/Plataforma/Login2.png)
 

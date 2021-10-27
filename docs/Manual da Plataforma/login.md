@@ -8,18 +8,18 @@ sidebar_position: 2
 
 ### 1. Acesse: www.pisteiro.com
 
-### 2. Clique em "Minha conta"
+### 2. Clique em "ENTRAR"
 
-![Login](/img/Plataforma/Home.png)
+![Login](/img/Plataforma/entrathome.png)
 
-### 3. Insira seu EMAIL 
+### 3. Insira seu EMAIL ou CELULAR 
 
-![Login](/img/Plataforma/Login1.png)
+![Login](/img/Plataforma/loginec.png)
 
 ### 4. Após inserir seu Email, insira sua SENHA
 
-![Login](/img/Plataforma/Login2.png)
+![Login](/img/Plataforma/loginsenha.png)
 
 ### 5. Clique em "ENTRAR"
 
-![Login](/img/Plataforma/Login3.png)
+![Login](/img/Plataforma/entrarlogin.png)

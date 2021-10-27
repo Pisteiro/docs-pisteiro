@@ -43,7 +43,7 @@ OBS: Em caso de empate, o prêmio é dividido entre os ganhadores
 
 ### 1. Clique no ícone de "Pontuação" no mural
 
-![Mural](/img/Plataforma/mural3.png)
+![Mural](/img/Plataforma/pontuacaodashb.png)
 
 ### 2. Veja o histórico de Pontuações nas competições em que participou
 
@@ -51,13 +51,13 @@ OBS: Em caso de empate, o prêmio é dividido entre os ganhadores
 
 ### 3. Para saber mais sobre a pontuação de uma competição, clique no ícone de seta
 
-![Pontuação](/img/Plataforma/ponto1.png)
+![Pontuação](/img/Plataforma/descricaocompeticao.png)
 
 ### 4. Veja a pontuação nas categorias na competição selecionada
 
 ### 5. Para ver a comparação entre o seu time e o time vencedor em cada categoria, clique em "Detalhes"
 
-![Pontuação](/img/Plataforma/ponto2.png)
+![Pontuação](/img/Plataforma/detalhespontuacao.png)
 
 ### 6. Veja a comparação entre o seu time e os cavalos vencedores
 

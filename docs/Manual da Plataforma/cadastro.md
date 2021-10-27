@@ -11,39 +11,31 @@ sidebar_position: 1
 
 ### 2. Clique em **"Nova conta"**, "Quero concorrer", etc.
 
-![SignUp](/img/Plataforma/SignUp1.png)
+![SignUp](/img/Plataforma/telainicial.png)
 
 ### 3. Insira suas informações
 
-![SignUp](/img/Plataforma/SignUp2.png)
-
-### 4. Caso queira concorrer a prêmios, clique em "Quero concorrer a premiações"
-
-![SignUp](/img/Plataforma/SignUp3.png)
-
-### 4.1. Insira seu CPF
-
-![SignUp](/img/Plataforma/SignUp4.png)
+![SignUp](/img/Plataforma/cadastrese.png)
 
 ### 5. Clique em "Li e aceito os termos de uso"
 
-![SignUp](/img/Plataforma/SignUp5.png)
+![SignUp](/img/Plataforma/termo.png)
 
 ### 6. Clique em "Cadastar"
 
-![SignUp](/img/Plataforma/SignUp6.png)
+![SignUp](/img/Plataforma/cadastrar.png)
 
 ### 7. Verifique o código enviado para o seu seu Email ou Celular
 
 ### 8. Insira seu Email ou Celular (onde foi enviado o código)
 
-![SignUp](/img/Plataforma/SignUp7.png)
+![SignUp](/img/Plataforma/emailcelular.png)
 
 ### 9. Insira o código recebido
 
-![SignUp](/img/Plataforma/SignUp8.png)
+![SignUp](/img/Plataforma/inserircodigo.png)
 
 ### 10. Clique em "Verificar"
 
-![SignUp](/img/Plataforma/SignUp9.png)
+![SignUp](/img/Plataforma/verificar.png)
 

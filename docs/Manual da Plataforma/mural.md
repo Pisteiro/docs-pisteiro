@@ -14,25 +14,25 @@ sidebar_position: 4
 
 - Vai para a página **"Mural"**
 
-![Mural](/img/Plataforma/mural1.png)
+![Mural](/img/Plataforma/dash.png)
 
 ### MINHAS COMPETIÇÕES
 
-- Vai para a página **"Minhas competições"**
+- Vai para a página **"Meus campeonatos"**
 
-![Mural](/img/Plataforma/mural2.png)
+![Mural](/img/Plataforma/meuscampeonatos.png)
 
 ### PONTUAÇÃO
 
 - Vai para a página **"Pontuação"**
 
-![Mural](/img/Plataforma/mural3.png)
+![Mural](/img/Plataforma/pontuacaodash.png)
 
 ### SAIR
 
 - **Sai** da plataforma Pisteiro
 
-![Mural](/img/Plataforma/mural4.png)
+![Mural](/img/Plataforma/sairdash.png)
 
 ## CÓDIGO DO USUÁRIO
 
@@ -44,7 +44,7 @@ sidebar_position: 4
 
 ![Mural](/img/Plataforma/mural5.png)
 
-## COMPETIÇÕES
+## CAMPEONATOS
 
 - Area onde ficam expostas as próximas competições
 
@@ -52,7 +52,7 @@ sidebar_position: 4
 
 - Você pode navegar entre as páginas para ver todos os campeonatos
 
-![Mural](/img/Plataforma/mural6.png)
+![Mural](/img/Plataforma/meuscampeonatos2.png)
 
 ## CAVALOS EM DESTAQUE
 
@@ -60,4 +60,4 @@ sidebar_position: 4
 
 - Você pode navegar entre as páginas para ver todos os cavalos em destaque
 
-![Mural](/img/Plataforma/mural7certo.png)
+![Mural](/img/Plataforma/cavalosemdestaque.png)

@@ -56,12 +56,12 @@ sidebar_position: 5
 
 - Somente cavalos disponiveis podem ser adicionados no time.
 
-![Competição](/img/Plataforma/competi8.png)
+![Competição](/img/Plataforma/substituicao.png)
 
 ### 8. Clique em "Finalizar"
 
-![Competição](/img/Plataforma/competi9.png)
+![Competição](/img/Plataforma/salvarparticipantes.png)
 
 ### 9. Caso queira alterar seu time, clique em "Modificar time"
 
-![Competição](/img/Plataforma/competi10.png)
+![Competição](/img/Plataforma/modificartime.png)

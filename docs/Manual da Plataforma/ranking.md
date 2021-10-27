@@ -10,16 +10,18 @@ sidebar_position: 6
 
 ### 1. Acesse a página "Meus campeonatos" clicando no ícone
 
-![Mural](/img/Plataforma/mural2.png)
+![Mural](/img/Plataforma/meuscampeonatos.png)
 
 ### 2. Selecione um campeonato
+
+![Mural](/img/Plataforma/dashcampeonato.png)
 
 ### 3. Selecione uma categoria e clique em "Ranking"
 
 - Somente categorias com o status "Finalizado" podem ter o Ranking acessado.
 
-![Ranking](/img/Plataforma/rank1.png)
+![Ranking](/img/Plataforma/ranking.png)
 
 ### 4. Veja quais foram os primeiros colocados da categoria
 
-![Ranking](/img/Plataforma/rank2.png)
+![Ranking](/img/Plataforma/podio.png)

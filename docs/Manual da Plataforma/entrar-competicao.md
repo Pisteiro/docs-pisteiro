@@ -10,7 +10,7 @@ sidebar_position: 5
 
 ### 2. Selecione uma das competições ativas
 
-![Competição](/img/Plataforma/competi1.png)
+![Competição](/img/Plataforma/competicoesativas.png)
 
 ### 3. Caso haja categorias abertas, clique em "Selecionar cavalos"
 
@@ -20,15 +20,15 @@ sidebar_position: 5
 
 - Cada categoria tem um saldo próprio para a seleção de cavalos.
 
-![Competição](/img/Plataforma/competi2.png)
+![Competição](/img/Plataforma/selecionarcavalos.png)
 
 ### 4. Clique em "inscrever", caso não esteja inscrito
 
-![Competição](/img/Plataforma/competi3.png)
+![Competição](/img/Plataforma/inscrever.png)
 
 ### 5. Clique em "Escolher time"
 
-![Competição](/img/Plataforma/competi4.png)
+![Competição](/img/Plataforma/escolhertime.png)
 
 ### 5. Caso haja saldo, Selecione os cavalos que desejar para a area "Meu time"
 
@@ -38,30 +38,30 @@ sidebar_position: 5
 
 - Você podera ver o saldo restante e o valor do time acima dos cavalos
 
-![Competição](/img/Plataforma/competi5.png)
+![Competição](/img/Plataforma/montartime.png)
 
 ### 6. Clique nas setas laterais para por seus cavalos na posição que você desejar
 
 - A posição que você colocar os cavalos, é a posição que você acha que eles vão ficar na categoria.
 
-![Competição](/img/Plataforma/competi6.png)
+![Competição](/img/Plataforma/setas.png)
 
 ### 7. Caso deseje ver os detalhes do cavalo, clique sobre o nome do cavalo que desejar
 
 #### 7.1 Caso queira navegar entre os cavalos, utilize as setinhas
 
-![Competição](/img/Plataforma/competi7.png)
+![Competição](/img/Plataforma/vercavalos.png)
 
 #### 7.2 Clique no botão verde para adicionar ou substituir o cavalo da posição
 
 - Somente cavalos disponiveis podem ser adicionados no time.
 
-![Competição](/img/Plataforma/competi8.png)
+![Competição](/img/Plataforma/substituicao.png)
 
 ### 8. Clique em "Finalizar"
 
-![Competição](/img/Plataforma/competi9.png)
+![Competição](/img/Plataforma/salvarparticipantes.png)
 
 ### 9. Caso queira alterar seu time, clique em "Modificar time"
 
-![Competição](/img/Plataforma/competi10.png)
+![Competição](/img/Plataforma/modificartime.png)

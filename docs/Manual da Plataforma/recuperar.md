@@ -36,4 +36,4 @@ sidebar_position: 3
 
 ### 9. Clique em "Confirmar"
 
-![Reset](/img/Plataforma/confirmarnoavsenha.png)
+![Reset](/img/Plataforma/confirmarnovasenha.png)

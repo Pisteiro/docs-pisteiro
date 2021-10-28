@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ### 2. Clique em "ENTRAR"
 
-![Login](/img/Plataforma/entrathome.png)
+![Login](/img/Plataforma/entrarhome.png)
 
 ### 3. Insira seu EMAIL ou CELULAR 
 

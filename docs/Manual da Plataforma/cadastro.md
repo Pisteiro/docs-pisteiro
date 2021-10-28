@@ -33,9 +33,9 @@ sidebar_position: 1
 
 ### 9. Insira o código recebido
 
-![SignUp](/img/Plataforma/inserircodigo.png)
+![SignUp](/img/Plataforma/codigodocadastro.png)
 
 ### 10. Clique em "Verificar"
 
-![SignUp](/img/Plataforma/verificar.png)
+![SignUp](/img/Plataforma/verificarcodigocadastro.png)
 

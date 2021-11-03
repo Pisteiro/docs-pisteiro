@@ -29,6 +29,8 @@ sidebar_position: 1
 
 ### 8. Insira seu Email ou Celular (onde foi enviado o código)
 
+> Observação: Código DDI(Discagem Direta Internacional) é o código do país, o DDD é digitado juntamente ao numero do celular.
+
 ![SignUp](/img/Plataforma/emailcelular.png)
 
 ### 9. Insira o código recebido
@@ -39,3 +41,22 @@ sidebar_position: 1
 
 ![SignUp](/img/Plataforma/verificarcodigocadastro.png)
 
+### 11. Faça o [Login](login.md) no Pisteiro
+
+### 12. Insira seus dados
+
+![SignUp](/img/Plataforma/PA1.png)
+
+### 13. Caso deseje concorrer a premiações, selecione a opção "Quero concorrer a premiações"
+
+### 13. Insira seu CPF
+
+![SignUp](/img/Plataforma/PA2.png)
+
+### 14. Aceite os termos
+
+![SignUp](/img/Plataforma/PA3.png)
+
+### 15. Clique em "Cadastrar"
+
+![SignUp](/img/Plataforma/PA3.png)

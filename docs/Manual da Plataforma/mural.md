@@ -42,7 +42,7 @@ sidebar_position: 4
 
 - O código serve como forma de identificação do usuário
 
-![Mural](/img/Plataforma/mural5.png)
+![Mural](/img/Plataforma/mural15.png)
 
 ## CAMPEONATOS
 

@@ -20,17 +20,19 @@ sidebar_position: 5
 
 - Cada categoria tem um saldo próprio para a seleção de cavalos.
 
+- Caso tenha feito um time e a categoria esteja encerrada, clique em "Encerrado" para ver seu time.
+
 ![Competição](/img/Plataforma/selecionarcavalos.png)
 
 ### 4. Clique em "inscrever", caso não esteja inscrito
 
 ![Competição](/img/Plataforma/inscrever.png)
 
-### 5. Clique em "Escolher time"
+### 5. Clique em "Escolher"
 
 ![Competição](/img/Plataforma/escolhertime.png)
 
-### 5. Caso haja saldo, Selecione os cavalos que desejar para a area "Meu time"
+### 6. Caso haja saldo, arraste os cavalos que desejar para a area "Meu time" na posição que desejar
 
 - Quando arrastar um cavalo, o valor do cavalo sera removido do seu saldo
 
@@ -40,13 +42,7 @@ sidebar_position: 5
 
 ![Competição](/img/Plataforma/montartime.png)
 
-### 6. Clique nas setas laterais para por seus cavalos na posição que você desejar
-
-- A posição que você colocar os cavalos, é a posição que você acha que eles vão ficar na categoria.
-
-![Competição](/img/Plataforma/setas.png)
-
-### 7. Caso deseje ver os detalhes do cavalo, clique sobre o nome do cavalo que desejar
+### 7. Caso deseje ver os detalhes do cavalo, clique sobre o cavalo que desejar
 
 #### 7.1 Caso queira navegar entre os cavalos, utilize as setinhas
 
@@ -56,12 +52,18 @@ sidebar_position: 5
 
 - Somente cavalos disponiveis podem ser adicionados no time.
 
+- Caso queira adicionar ou substituir, você deve selecionar uma posição
+
 ![Competição](/img/Plataforma/substituicao.png)
+
+#### 7.3 Clique no botão verde
+
+![Competição](/img/Plataforma/verde.png)
 
 ### 8. Clique em "Finalizar"
 
 ![Competição](/img/Plataforma/salvarparticipantes.png)
 
-### 9. Caso queira alterar seu time, clique em "Modificar time"
+### 9. Caso queira alterar seu time, clique em "Modificar"
 
 ![Competição](/img/Plataforma/modificartime.png)

@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # RANKING
 
-## COMO VEJO A MINHA CLASSIFICAÇÃO NA COMPETIÇÃO E NAS CATEGORIAS?
+## COMO VEJO A MINHA CLASSIFICAÇÃO NAS CATEGORIAS?
 
 ## RANKING DA CATEGORIA
 
@@ -25,3 +25,13 @@ sidebar_position: 6
 ### 4. Veja quais foram os primeiros colocados da categoria
 
 ![Ranking](/img/Plataforma/podio.png)
+
+## RANKING DA COMPETIÇÃO
+
+### 1. Clique no ícone de "Pontuação" no mural
+
+![Mural](/img/Plataforma/pontuacaodash.png)
+
+### 2. Clique em "Ranking" do campeonato que deseja ver
+
+![Mural](/img/Plataforma/rank1.png)

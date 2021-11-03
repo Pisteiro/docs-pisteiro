@@ -43,13 +43,13 @@ OBS: Em caso de empate, o prêmio é dividido entre os ganhadores
 
 ### 1. Clique no ícone de "Pontuação" no mural
 
-![Mural](/img/Plataforma/pontuacaodashb.png)
+![Mural](/img/Plataforma/pontuacaodash.png)
 
 ### 2. Veja o histórico de Pontuações nas competições em que participou
 
 - Veja a pontuação e a colocação de Competições passadas
 
-### 3. Para saber mais sobre a pontuação de uma competição, clique no ícone de seta
+### 3. Para saber mais sobre a pontuação de um campeonato, clique no nome do campeonato
 
 ![Pontuação](/img/Plataforma/descricaocompeticao.png)
 

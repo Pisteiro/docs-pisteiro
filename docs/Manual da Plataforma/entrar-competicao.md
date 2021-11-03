@@ -32,7 +32,7 @@ sidebar_position: 5
 
 ![Competição](/img/Plataforma/escolhertime.png)
 
-### 6. Caso haja saldo, arraste os cavalos que desejar para a area "Meu time" na posição que desejar
+### 6. Caso haja saldo, arraste os cavalos que desejar para a area "Meu time" na posição desejada
 
 - Quando arrastar um cavalo, o valor do cavalo sera removido do seu saldo
 

@@ -47,6 +47,9 @@ sidebar_position: 1
 
 ![SignUp](/img/Plataforma/bemvindo.png)
 
+O campo de apelido é **público** e será visto por todos os jogadores nos rankings.
+O campo de apelido só deve conter letras minúsculas e números. Nenhum caracter especial é aceito.
+
 ### 12. Aceite os termos novamente 
 
 ![SignUp](/img/Plataforma/termosnovamente.png)

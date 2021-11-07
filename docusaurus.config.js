@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Pisteiro',
   tagline: 'Pisteiro',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://pisteiro.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

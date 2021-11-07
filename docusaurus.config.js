@@ -9,7 +9,7 @@ const config = {
   title: 'Pisteiro',
   tagline: 'Pisteiro',
   url: 'https://pisteiro.github.io',
-  baseUrl: '/',
+  baseUrl: '/docs-pisteiro/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

@@ -8,7 +8,7 @@ sidebar_position: 5
 
 ### 1. Faça [Login](login.md) no Pisteiro
 
-### 2. Selecione uma das competições ativas
+### 2. Selecione um dos campeonatos ativos
 
 ![Competição](/img/Plataforma/competicoesativas.png)
 

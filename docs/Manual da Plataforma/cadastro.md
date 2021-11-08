@@ -27,6 +27,18 @@ sidebar_position: 1
 
 ### 7. Verifique o código enviado para o seu seu Email ou Celular
 
+#### 7.1 Caso não tenha recebido o código, acesse a tela de [Login](login.md)
+
+#### 7.2 Insira seu Email e/ou Celular e a senha, clique em "Entrar"
+
+#### 7.3 Clique em "Reenviar código"
+
+![SignUp](/img/Plataforma/reenviar.png)
+
+#### 7.4 Clique em "Verificar conta"
+
+![SignUp](/img/Plataforma/verificarcode.png)
+
 ### 8. Insira seu Email ou Celular (onde foi enviado o código)
 
 > Observação: Código DDI(Discagem Direta Internacional) é o código do país, o DDD é digitado juntamente ao numero do celular.
@@ -36,6 +48,7 @@ sidebar_position: 1
 ### 9. Insira o código recebido
 
 ![SignUp](/img/Plataforma/codigodocadastro.png)
+
 
 ### 10. Clique em "Verificar"
 

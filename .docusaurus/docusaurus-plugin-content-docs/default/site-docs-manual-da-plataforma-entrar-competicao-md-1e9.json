@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Manual da Plataforma/entrar-competicao",
+  "id": "Manual da Plataforma/entrar-competicao",
+  "isDocsHomePage": false,
+  "title": "ENTRAR NA COMPETIÇÃO",
+  "description": "COMO ENTRAR EM UMA COMPETIÇÃO?",
+  "source": "@site/docs/Manual da Plataforma/entrar-competicao.md",
+  "sourceDirName": "Manual da Plataforma",
+  "slug": "/Manual da Plataforma/entrar-competicao",
+  "permalink": "/docs-pisteiro/Manual da Plataforma/entrar-competicao",
+  "editUrl": "https://github.com/Pisteiro/docs-pisteiro/docs/Manual da Plataforma/entrar-competicao.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MURAL",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/mural"
+  },
+  "next": {
+    "title": "RANKING",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/ranking"
+  }
+}

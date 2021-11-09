@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Manual da Plataforma/ranking",
+  "id": "Manual da Plataforma/ranking",
+  "isDocsHomePage": false,
+  "title": "RANKING",
+  "description": "COMO VEJO A MINHA CLASSIFICAÇÃO NAS CATEGORIAS?",
+  "source": "@site/docs/Manual da Plataforma/ranking.md",
+  "sourceDirName": "Manual da Plataforma",
+  "slug": "/Manual da Plataforma/ranking",
+  "permalink": "/docs-pisteiro/Manual da Plataforma/ranking",
+  "editUrl": "https://github.com/Pisteiro/docs-pisteiro/docs/Manual da Plataforma/ranking.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ENTRAR NA COMPETIÇÃO",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/entrar-competicao"
+  },
+  "next": {
+    "title": "PONTUAÇÃO",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/pontuacao"
+  }
+}

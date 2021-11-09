@@ -1,0 +1,18 @@
+export default {
+  '0b939de3': [() => import(/* webpackChunkName: '0b939de3' */ "@site/docs/Manual da Plataforma/recuperar.md"), "@site/docs/Manual da Plataforma/recuperar.md", require.resolveWeak("@site/docs/Manual da Plataforma/recuperar.md")],
+  '0e384e19': [() => import(/* webpackChunkName: '0e384e19' */ "@site/docs/intro.md"), "@site/docs/intro.md", require.resolveWeak("@site/docs/intro.md")],
+  '0ffd8317': [() => import(/* webpackChunkName: '0ffd8317' */ "@site/docs/Manual da Plataforma/login.md"), "@site/docs/Manual da Plataforma/login.md", require.resolveWeak("@site/docs/Manual da Plataforma/login.md")],
+  '17896441': [() => import(/* webpackChunkName: '17896441' */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
+  '1be78505': [() => import(/* webpackChunkName: '1be78505' */ "@theme/DocPage"), "@theme/DocPage", require.resolveWeak("@theme/DocPage")],
+  '1e96222b': [() => import(/* webpackChunkName: '1e96222b' */ "@site/docs/Manual da Plataforma/entrar-competicao.md"), "@site/docs/Manual da Plataforma/entrar-competicao.md", require.resolveWeak("@site/docs/Manual da Plataforma/entrar-competicao.md")],
+  '1f391b9e': [() => import(/* webpackChunkName: '1f391b9e' */ "@theme/MDXPage"), "@theme/MDXPage", require.resolveWeak("@theme/MDXPage")],
+  '3720c009': [() => import(/* webpackChunkName: '3720c009' */ "@theme/DocTagsListPage"), "@theme/DocTagsListPage", require.resolveWeak("@theme/DocTagsListPage")],
+  '393be207': [() => import(/* webpackChunkName: '393be207' */ "@site/src/pages/markdown-page.md"), "@site/src/pages/markdown-page.md", require.resolveWeak("@site/src/pages/markdown-page.md")],
+  '3cccd7f4': [() => import(/* webpackChunkName: '3cccd7f4' */ "@site/docs/Manual da Plataforma/mural.md"), "@site/docs/Manual da Plataforma/mural.md", require.resolveWeak("@site/docs/Manual da Plataforma/mural.md")],
+  '50e399df': [() => import(/* webpackChunkName: '50e399df' */ "@site/docs/Manual da Plataforma/pontuacao.md"), "@site/docs/Manual da Plataforma/pontuacao.md", require.resolveWeak("@site/docs/Manual da Plataforma/pontuacao.md")],
+  '55960ee5': [() => import(/* webpackChunkName: '55960ee5' */ "~docs/default/tags-list-current-prop-15a.json"), "~docs/default/tags-list-current-prop-15a.json", require.resolveWeak("~docs/default/tags-list-current-prop-15a.json")],
+  '935f2afb': [() => import(/* webpackChunkName: '935f2afb' */ "~docs/default/version-current-metadata-prop-751.json"), "~docs/default/version-current-metadata-prop-751.json", require.resolveWeak("~docs/default/version-current-metadata-prop-751.json")],
+  '9e4087bc': [() => import(/* webpackChunkName: '9e4087bc' */ "@theme/BlogArchivePage"), "@theme/BlogArchivePage", require.resolveWeak("@theme/BlogArchivePage")],
+  'a717970f': [() => import(/* webpackChunkName: 'a717970f' */ "@site/docs/Manual da Plataforma/cadastro.md"), "@site/docs/Manual da Plataforma/cadastro.md", require.resolveWeak("@site/docs/Manual da Plataforma/cadastro.md")],
+  'cab57647': [() => import(/* webpackChunkName: 'cab57647' */ "~blog/default/docs-pisteiro-blog-archive-f54.json"), "~blog/default/docs-pisteiro-blog-archive-f54.json", require.resolveWeak("~blog/default/docs-pisteiro-blog-archive-f54.json")],
+  'f3609b6a': [() => import(/* webpackChunkName: 'f3609b6a' */ "@site/docs/Manual da Plataforma/ranking.md"), "@site/docs/Manual da Plataforma/ranking.md", require.resolveWeak("@site/docs/Manual da Plataforma/ranking.md")],};

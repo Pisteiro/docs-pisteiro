@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Manual da Plataforma/mural",
+  "id": "Manual da Plataforma/mural",
+  "isDocsHomePage": false,
+  "title": "MURAL",
+  "description": "COMO FUNCIONA O MURAL?",
+  "source": "@site/docs/Manual da Plataforma/mural.md",
+  "sourceDirName": "Manual da Plataforma",
+  "slug": "/Manual da Plataforma/mural",
+  "permalink": "/docs-pisteiro/Manual da Plataforma/mural",
+  "editUrl": "https://github.com/Pisteiro/docs-pisteiro/docs/Manual da Plataforma/mural.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RECUPERAR SENHA",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/recuperar"
+  },
+  "next": {
+    "title": "ENTRAR NA COMPETIÇÃO",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/entrar-competicao"
+  }
+}

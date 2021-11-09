@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Manual da Plataforma/pontuacao",
+  "id": "Manual da Plataforma/pontuacao",
+  "isDocsHomePage": false,
+  "title": "PONTUAÇÃO",
+  "description": "Com base nos cavalos que você selecionou, é feita uma comparação com os ganhadores da competição, você pontua somente se você acertar a posição do Cavalo na categoria.",
+  "source": "@site/docs/Manual da Plataforma/pontuacao.md",
+  "sourceDirName": "Manual da Plataforma",
+  "slug": "/Manual da Plataforma/pontuacao",
+  "permalink": "/docs-pisteiro/Manual da Plataforma/pontuacao",
+  "editUrl": "https://github.com/Pisteiro/docs-pisteiro/docs/Manual da Plataforma/pontuacao.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RANKING",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/ranking"
+  }
+}

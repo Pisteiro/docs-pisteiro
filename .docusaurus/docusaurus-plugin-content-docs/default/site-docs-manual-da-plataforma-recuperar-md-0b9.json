@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Manual da Plataforma/recuperar",
+  "id": "Manual da Plataforma/recuperar",
+  "isDocsHomePage": false,
+  "title": "RECUPERAR SENHA",
+  "description": "ESQUECI MINHA SENHA A SENHA? COMO RECUPERAR O MEU ACESSO?",
+  "source": "@site/docs/Manual da Plataforma/recuperar.md",
+  "sourceDirName": "Manual da Plataforma",
+  "slug": "/Manual da Plataforma/recuperar",
+  "permalink": "/docs-pisteiro/Manual da Plataforma/recuperar",
+  "editUrl": "https://github.com/Pisteiro/docs-pisteiro/docs/Manual da Plataforma/recuperar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LOGIN",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/login"
+  },
+  "next": {
+    "title": "MURAL",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/mural"
+  }
+}

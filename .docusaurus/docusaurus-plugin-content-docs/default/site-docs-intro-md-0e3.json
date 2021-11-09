@@ -1,0 +1,25 @@
+{
+  "unversionedId": "my-home-doc",
+  "id": "my-home-doc",
+  "isDocsHomePage": false,
+  "title": "Introdução",
+  "description": "Aprenda a como usar as aplicações e ferramentas do Pisteiro!",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs-pisteiro/",
+  "editUrl": "https://github.com/Pisteiro/docs-pisteiro/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "my-home-doc",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "CADASTRO",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/cadastro"
+  }
+}

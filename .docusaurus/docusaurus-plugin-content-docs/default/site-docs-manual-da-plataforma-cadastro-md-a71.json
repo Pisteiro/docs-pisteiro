@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Manual da Plataforma/cadastro",
+  "id": "Manual da Plataforma/cadastro",
+  "isDocsHomePage": false,
+  "title": "CADASTRO",
+  "description": "COMO ME CADASTRAR?",
+  "source": "@site/docs/Manual da Plataforma/cadastro.md",
+  "sourceDirName": "Manual da Plataforma",
+  "slug": "/Manual da Plataforma/cadastro",
+  "permalink": "/docs-pisteiro/Manual da Plataforma/cadastro",
+  "editUrl": "https://github.com/Pisteiro/docs-pisteiro/docs/Manual da Plataforma/cadastro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introdução",
+    "permalink": "/docs-pisteiro/"
+  },
+  "next": {
+    "title": "LOGIN",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/login"
+  }
+}

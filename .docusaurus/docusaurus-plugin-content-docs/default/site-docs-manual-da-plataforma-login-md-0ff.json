@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Manual da Plataforma/login",
+  "id": "Manual da Plataforma/login",
+  "isDocsHomePage": false,
+  "title": "LOGIN",
+  "description": "COMO ACESSAR SUA CONTA?",
+  "source": "@site/docs/Manual da Plataforma/login.md",
+  "sourceDirName": "Manual da Plataforma",
+  "slug": "/Manual da Plataforma/login",
+  "permalink": "/docs-pisteiro/Manual da Plataforma/login",
+  "editUrl": "https://github.com/Pisteiro/docs-pisteiro/docs/Manual da Plataforma/login.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CADASTRO",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/cadastro"
+  },
+  "next": {
+    "title": "RECUPERAR SENHA",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/recuperar"
+  }
+}

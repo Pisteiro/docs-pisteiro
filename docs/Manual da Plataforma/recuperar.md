@@ -8,13 +8,13 @@ sidebar_position: 3
 
 ### 1. Acesse a tela de Login (https://www.pisteiro.com/account/sign-in)
 
-### 2. Clique em "Esqueceu a senha?"
+### 2. Clique em ENTRAR, em seguida em "Esqueceu a senha?"
 
-![Reset](/img/Plataforma/esqueceuasenha.png)
+![Reset](/img/Plataforma/esqueceusenha.png)
 
 ### 3. Informe um Email ou um Celular já cadastrados no Pisteiro
 
-![Reset](/img/Plataforma/identificacao.png)
+![Reset](/img/Plataforma/esqueceuec.png)
 
 ### 4. Clique em "Receber código"
 
@@ -24,7 +24,7 @@ sidebar_position: 3
 
 ### 6. Insira o código recebido por Email ou SMS
 
-![Reset](/img/Plataforma/codigo.png)
+![Reset](/img/Plataforma/inserircodigo.png)
 
 ### 7. Clique em "Confirmar código"
 
@@ -36,4 +36,4 @@ sidebar_position: 3
 
 ### 9. Clique em "Confirmar"
 
-![Reset](/img/Plataforma/confirmar.png)
+![Reset](/img/Plataforma/confirmarnovasenha.png)

@@ -8,18 +8,20 @@ sidebar_position: 2
 
 ### 1. Acesse: www.pisteiro.com
 
-### 2. Clique em "Entrar"
+### 2. Clique em "ENTRAR"
 
-![Login](/img/Plataforma/paginainicial.png)
+![Login](/img/Plataforma/entrarhome.png)
 
-### 3. Insira seu E-MAIL ou CELULAR
+### 3. Insira seu EMAIL ou CELULAR 
+> Observação: Código DDI(Discagem Direta Internacional) é o código do país, o DDD é digitado juntamente ao numero do celular.
 
-![Login](/img/Plataforma/emailoucelular.png)
+![Login](/img/Plataforma/loginec.png)
 
-### 4. Após inserir seu Email ou Celular, insira sua SENHA
+### 4. Após inserir seu Email, insira sua SENHA
+> Caso tenha esquecido sua senha, clique em [Esqueceu a senha?](recuperar.md)
 
-![Login](/img/Plataforma/senha.png)
+![Login](/img/Plataforma/loginsenha.png)
 
 ### 5. Clique em "ENTRAR"
 
-![Login](/img/Plataforma/entrar.png)
+![Login](/img/Plataforma/entrarlogin.png)

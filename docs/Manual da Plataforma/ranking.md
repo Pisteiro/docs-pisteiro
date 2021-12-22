@@ -4,40 +4,34 @@ sidebar_position: 6
 
 # RANKING
 
-## COMO VEJO A MINHA CLASSIFICAÇÃO NA COMPETIÇÃO E NAS CATEGORIAS?
-
-## RANKING DA COMPETIÇÃO
-
-### 1. Acesse a página "Minhas competições" clicando no ícone
-
-![Ranking](/img/Plataforma/rank1.png)
-
-### 2. Caso a competição esteja encerrada, clique em "Ranking"
-
-- Competições encerradas ficarão na cor **vermelha**
-
-![Ranking](/img/Plataforma/rank2.png)
-
-### 3. Veja quais foram os primeiros colocados da competição
-
-![Ranking](/img/Plataforma/rank3.png)
+## COMO VEJO A MINHA CLASSIFICAÇÃO NAS CATEGORIAS?
 
 ## RANKING DA CATEGORIA
 
-### 1. Acesse a página "Minhas competições" clicando no ícone
+### 1. Acesse a página "Meus campeonatos" clicando no ícone
 
-![Ranking](/img/Plataforma/rank1.png)
+![Mural](/img/Plataforma/meuscampeonatos.png)
 
-### 2. Selecione uma competição em andamento e clique em "Detalhes"
+### 2. Selecione um campeonato
 
-- Competições em andamento ficarão na cor **amarela**
-
-![Ranking](/img/Plataforma/rank4.png)
+![Mural](/img/Plataforma/dashcampeonato.png)
 
 ### 3. Selecione uma categoria e clique em "Ranking"
 
-![Ranking](/img/Plataforma/rank5.png)
+- Somente categorias com o status "Finalizado" podem ter o Ranking acessado.
+
+![Ranking](/img/Plataforma/ranking.png)
 
 ### 4. Veja quais foram os primeiros colocados da categoria
 
-![Ranking](/img/Plataforma/rank3.png)
+![Ranking](/img/Plataforma/podio.png)
+
+## RANKING DA COMPETIÇÃO
+
+### 1. Clique no ícone de "Pontuação" no mural
+
+![Mural](/img/Plataforma/pontuacaodash.png)
+
+### 2. Clique em "Ranking" do campeonato que deseja ver
+
+![Mural](/img/Plataforma/rank1.png)

@@ -14,25 +14,25 @@ sidebar_position: 4
 
 - Vai para a página **"Mural"**
 
-![Mural](/img/Plataforma/mural1.png)
+![Mural](/img/Plataforma/dash.png)
 
 ### MINHAS COMPETIÇÕES
 
-- Vai para a página **"Minhas competições"**
+- Vai para a página **"Meus campeonatos"**
 
-![Mural](/img/Plataforma/mural2.png)
+![Mural](/img/Plataforma/meuscampeonatos.png)
 
 ### PONTUAÇÃO
 
 - Vai para a página **"Pontuação"**
 
-![Mural](/img/Plataforma/mural3.png)
+![Mural](/img/Plataforma/pontuacaodash.png)
 
 ### SAIR
 
 - **Sai** da plataforma Pisteiro
 
-![Mural](/img/Plataforma/mural4.png)
+![Mural](/img/Plataforma/sairdash.png)
 
 ## CÓDIGO DO USUÁRIO
 
@@ -42,18 +42,22 @@ sidebar_position: 4
 
 - O código serve como forma de identificação do usuário
 
-![Mural](/img/Plataforma/mural5.png)
+![Mural](/img/Plataforma/mural15.png)
 
-## COMPETIÇÕES
+## CAMPEONATOS
 
 - Area onde ficam expostas as próximas competições
 
 - O usuário poderá entrar em qualquer competição
 
-![Mural](/img/Plataforma/mural6.png)
+- Você pode navegar entre as páginas para ver todos os campeonatos
+
+![Mural](/img/Plataforma/meuscampeonatos2.png)
 
 ## CAVALOS EM DESTAQUE
 
 - Area onde são destacados os cavalos mais comprados no Pisteiro
 
-![Mural](/img/Plataforma/mural7.png)
+- Você pode navegar entre as páginas para ver todos os cavalos em destaque
+
+![Mural](/img/Plataforma/cavalosemdestaque.png)

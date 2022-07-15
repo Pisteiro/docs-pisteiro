@@ -29,9 +29,9 @@ sidebar_position: 2
 #### Google:
 ##### Clique em "continuar com o google" e siga passo a passo informado.
 
-![SignUp](/img/Plataforma2/criarcontagoogle.png)
+![SignUp](/img/Plataforma2/logingoogle.png)
 
 #### Facebook:
 ##### Clique em "continuar com o Facebook" e siga passo a passo informado.
 
-![SignUp](/img/Plataforma2/criarcontaface.png)
+![SignUp](/img/Plataforma2/loginface.png)

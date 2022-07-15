@@ -8,7 +8,9 @@ sidebar_position: 4
 
 ## BARRA LATERAL
 
-- Clicando nos **ícones**:
+- Clicando nos **ícones**
+
+![Mural](/img/Plataforma2/mural0.png)
 
 ### Mural
 
@@ -58,21 +60,9 @@ sidebar_position: 4
 
 ![Mural](/img/Plataforma2/mural8.png)
 
-## APELIDO DO USUÁRIO
-
-- Um apelido aleatório gerado é na hora do cadastro
-
-- O apelido pode ser alterado em **"perfil"** conforme a vontade do usuário (se o mesmo estiver disponível)
-
-- O apelido é unico para cada usuário
-
-- O apelido serve como forma de identificação do usuário
-
-![Mural](/img/Plataforma2/mural9.png)
-
 ## EVENTOS ATIVOS
 
-- Area onde ficam expostas as próximos eventos
+- Area onde ficam expostas os próximos eventos
 
 - O usuário poderá pesquisar por um evento especifico
 
@@ -80,51 +70,57 @@ sidebar_position: 4
 
 ![Mural](/img/Plataforma2/mural10.png)
 
-## COMO ENTRAR EM UM EVENTO?
+## COMO PARTICIPAR EM UM EVENTO?
 
-
-### 1. Selecione um dos eventos ativas e clique em "Ligas"
+### 1. Selecione um dos eventos ativos e clique em "Apartar tropas"
 
 ![Competição](/img/Plataforma2/mural101.png)
 
-### 2. Selecione uma das categorias ativas
+### 2. Selecione uma das categorias e clique em "Apartar tropas"
 
 ![Competição](/img/Plataforma2/mural11.png)
 
-### 3. Caso a categoria esteja aberta, clique em "Inscrever-se"
+:::note STATUS DAS CATEGORIAS
+
+AGUARDANDO: A categoria ainda não está aberta para escolher o seu time.
+
+INICIADO: A categoria está aberta para escolher o seu time, e que o período de julgamento ainda não iniciou.
+
+FECHADO: O período de julgamento já iniciou, e portanto não é mais possível modificar o time. O resultado oficial ainda não está disponível nessa etapa.
+
+FINALIZADO: O resultado oficial do julgamento já está disponível para essa etapa, e os jogadores podem conferir suas pontuações.
+
+:::
+
+### 3. Clique em "Escolher" para montar o seu time.
 
 ![Competição](/img/Plataforma2/mural12.png)
 
-- Em caso de categoria paga, o valor será debitado automaticamente de sua conta clicando em **"Confiirmar"**, caso possua o saldo necessario
+### 4. Clique em alguma posição.
 
 ![Competição](/img/Plataforma2/mural13.png)
 
-### 4. Para selecionar os cavalos clique em "Apartar tropa"
+### 5. Selecione os cavalos que desejar.
 
 ![Competição](/img/Plataforma2/mural14.png)
 
-### 5. Selecione a categoria clicando em "Apartar tropa"
+### 6. Clique em ''Confirmar seleção''
 
 ![Competição](/img/Plataforma2/mural15.png)
 
-### 6. Clique em escolher para definir o seu time daquela determinada categoria
+### 7. Clique em ''Finalizar''
 
 ![Competição](/img/Plataforma2/mural16.png)
 
-#### 6.1 Clique em uma das posições para começar a selecionar os cavalos
-
-- A ordem selecionada será a ordem de chegada escolhida
+#### 7.1 Para montar o time de outra categoria clique em ''Ver outras categorias''
 
 ![Competição](/img/Plataforma2/mural17.png)
 
-#### 6.2. Após selecionados, clique em "Confirmar"
+#### 6.2. Para editar o time escolhido da categoria clique em ''Modificar''
+
+:::note ATENÇÃO
+
+Ao modificar o seu time você altera a data e hora de criação do seu time e isso implica em desvantagem no desempate
+:::
 
 ![Competição](/img/Plataforma2/mural18.png)
-
-#### 6.3 Em seguida clique em "Finalizar"
-
-![Competição](/img/Plataforma2/mural19.png)
-
-### 7. Caso queira alterar seu time, clique em "Modificar time"
-
-![Competição](/img/Plataforma2/mural20.png)

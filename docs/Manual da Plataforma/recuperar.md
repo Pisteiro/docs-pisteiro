@@ -10,30 +10,28 @@ sidebar_position: 3
 
 ### 2. Clique em "Esqueceu a senha?"
 
-![Reset](/img/Plataforma/esqueceuasenha.png)
+![Reset](/img/Plataforma2/recuperar1.png)
 
-### 3. Informe um Email ou um Celular já cadastrados no Pisteiro
+### 3. Selecione a melhor opção de recuperação
 
-![Reset](/img/Plataforma/identificacao.png)
+![Reset](/img/Plataforma2/recuperar2.png)
 
-### 4. Clique em "Receber código"
+#### Email
+##### Informe o email cadastrado e clique em "Receber código"
 
-![Reset](/img/Plataforma/recebercodigo.png)
+![Reset](/img/Plataforma2/recuperar3.png)
 
-### 5. Verifique o código enviado para o seu seu Email ou Celular
+#### Celular
+##### Informe o número cadastrado e clique em "Receber código"
 
-### 6. Insira o código recebido por Email ou SMS
+![Reset](/img/Plataforma2/recuperarcel.png)
 
-![Reset](/img/Plataforma/codigo.png)
+### 4. Verifique o código enviado para o seu seu Email ou Celular
 
-### 7. Clique em "Confirmar código"
+### 5. Insira o código recebido por Email ou SMS e clique em "Confirmar código"
 
-![Reset](/img/Plataforma/confirmarcodigo.png)
+![Reset](/img/Plataforma2/recuperar4.png)
 
-### 8. Insira uma nova Senha e a confirme
+### 6. Insira uma nova Senha e a confirme e logo após, clique em "Confirmar"
 
-![Reset](/img/Plataforma/novasenha.png)
-
-### 9. Clique em "Confirmar"
-
-![Reset](/img/Plataforma/confirmar.png)
+![Reset](/img/Plataforma2/recuperar5.png)

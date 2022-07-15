@@ -6,38 +6,60 @@ sidebar_position: 6
 
 ## COMO VEJO A MINHA CLASSIFICAÇÃO NA COMPETIÇÃO E NAS CATEGORIAS?
 
-## RANKING DA COMPETIÇÃO
+## RANKING GERAL
 
-### 1. Acesse a página "Minhas competições" clicando no ícone
+### 1. Acesse a página "Ranking geral" clicando no ícone
 
-![Ranking](/img/Plataforma/rank1.png)
+![Ranking](/img/Plataforma2/ranking1.png)
 
-### 2. Caso a competição esteja encerrada, clique em "Ranking"
+### 2. Tem acesso ao ranking da temporada atual 
 
-- Competições encerradas ficarão na cor **vermelha**
+![Ranking](/img/Plataforma2/ranking2.png)
 
-![Ranking](/img/Plataforma/rank2.png)
+## RANKING DA LIGA
 
-### 3. Veja quais foram os primeiros colocados da competição
+### 1. Acesse a página "Minhas ligas" clicando no ícone
 
-![Ranking](/img/Plataforma/rank3.png)
+![Ranking](/img/Plataforma2/ranking3.png)
+
+### 2. Seleciona a competição desejada
+
+![Ranking](/img/Plataforma2/ranking4.png)
+
+### 3. Clique em "Ranking da liga"
+
+![Ranking](/img/Plataforma2/ranking5.png)
+
+### 4. Veja quais foram os primeiros colocados da competição
+
+![Ranking](/img/Plataforma2/ranking6.png)
 
 ## RANKING DA CATEGORIA
 
-### 1. Acesse a página "Minhas competições" clicando no ícone
+### 1. Acesse a página "Minhas ligas" clicando no ícone
 
-![Ranking](/img/Plataforma/rank1.png)
+![Ranking](/img/Plataforma2/ranking3.png)
 
-### 2. Selecione uma competição em andamento e clique em "Detalhes"
+### 2. Selecione uma competição
 
-- Competições em andamento ficarão na cor **amarela**
+![Ranking](/img/Plataforma2/ranking4.png)
 
-![Ranking](/img/Plataforma/rank4.png)
+### 3. Clique em "Apartar tropas"
 
-### 3. Selecione uma categoria e clique em "Ranking"
+![Ranking](/img/Plataforma2/ranking7.png)
 
-![Ranking](/img/Plataforma/rank5.png)
+### 4. Caso o evento tenha os resultados disponiveis, clique em "Ranking"
 
-### 4. Veja quais foram os primeiros colocados da categoria
+![Ranking](/img/Plataforma2/ranking8.png)
 
-![Ranking](/img/Plataforma/rank3.png)
+### 5. Veja quais foram os primeiros colocados da categoria
+
+![Ranking](/img/Plataforma2/ranking10.png)
+
+### 6. Clique em "Resultado oficial" para ver a comparação com a ordem de chegada
+
+![Ranking](/img/Plataforma2/ranking11.png)
+
+#### 6.1. Comparação com o resultado oficial
+
+![Ranking](/img/Plataforma2/ranking12.png)

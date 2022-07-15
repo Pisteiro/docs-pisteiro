@@ -11,46 +11,57 @@ sidebar_position: 1
 
 ### 2. Clique em "Cadastrar"
 
-![SignUp](/img/Plataforma/cadastrar.png)
+![SignUp](/img/Plataforma2/criarconta.png)
 
-### 3. Insira suas informações
+### 3. Selecione a melhor opção para realizar o seu cadastro:
 
-![SignUp](/img/Plataforma/iniciar.png)
+![SignUp](/img/Plataforma2/criarconta1.png)
 
-### 4. Clique em "Li e aceito os termos de uso"
+#### Email:
+##### Preencha as informações solicitadas, clique em "Li e aceito" e logo após, clique em "Cadastrar" para prosseguir.
 
-![SignUp](/img/Plataforma/termos.png)
+![SignUp](/img/Plataforma2/criarcontaemail.png)
 
-### 5. Clique em "Cadastar"
+#### Celular:
+##### Preencha as informações solicitadas, clique em "Li e aceito" e logo após, clique em "Cadastrar" para prosseguir.
 
-![SignUp](/img/Plataforma/cadastrar2.png)
+![SignUp](/img/Plataforma2/criarcontacel.png)
 
-### 6. Verifique o código enviado para o seu seu Email ou Celular
+#### Google:
+##### Clique em "continuar com o google" e siga passo a passo informado.
 
-### 7. Insira seu Email ou Celular (onde foi enviado o código)
+![SignUp](/img/Plataforma2/criarcontagoogle.png)
 
-![SignUp](/img/Plataforma/emailcelular.png)
+#### Facebook:
+##### Clique em "continuar com o Facebook" e siga passo a passo informado.
 
-### 8. Insira o código recebido
+![SignUp](/img/Plataforma2/criarcontaface.png)
 
-![SignUp](/img/Plataforma/verificarcodigo2.png)
+### 4. Após efetuar o acesso clique em "Validar Conta" 
 
-### 9. Clique em "Verificar"
+![SignUp](/img/Plataforma2/criarcontavalidar.png)
 
-![SignUp](/img/Plataforma/clicarverificar.png)
+### 5. Caso ja possua o código enviado ao email ou celular, clique em "Já tenho o código"
 
-### 10. Faça o Login no site
+![SignUp](/img/Plataforma2/criarcontavalidar1.png)
 
-![SignUp](/img/Plataforma/loginnovamente.png)
+### 6. Caso não possua o código, clique em "Enviar código" e o sistema enviara um novo código ao email ou celular cadastrado
 
-### 11. Complete seu cadastro com nome, sobrenome e apelido 
+![SignUp](/img/Plataforma2/criarcontavalidar2.png)
 
-![SignUp](/img/Plataforma/bemvindo.png)
+### 7. Insira o código recebido e clique em "Confirmar"
+
+![SignUp](/img/Plataforma2/criarcontavalidarconfirmar.png)
+
+
+### 8. Complete seu cadastro com nome, sobrenome, apelido, CPF, foto de perfil e clique em "Salvar perfil"
+
+![SignUp](/img/Plataforma2/criarconta6.png)
 
 O campo de apelido é **público** e será visto por todos os jogadores nos rankings.
 O campo de apelido só deve conter letras minúsculas e números. Nenhum caracter especial é aceito.
 
-### 12. Aceite os termos novamente 
+### 9. Tem a opção de alterar as modalidades que ficarão visiveis, sendo elas "Marcha batida", "Marcha picada" ou ambas
 
-![SignUp](/img/Plataforma/termosnovamente.png)
+![SignUp](/img/Plataforma2/alterarmodalidade.png)
 

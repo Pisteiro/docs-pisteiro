@@ -10,16 +10,28 @@ sidebar_position: 2
 
 ### 2. Clique em "Entrar"
 
-![Login](/img/Plataforma/paginainicial.png)
+![Login](/img/Plataforma2/login1.png)
 
-### 3. Insira seu E-MAIL ou CELULAR
+### 3. Selecione a melhor opção de login
 
-![Login](/img/Plataforma/emailoucelular.png)
+![Login](/img/Plataforma2/login2.png)
 
-### 4. Após inserir seu Email ou Celular, insira sua SENHA
+#### Email
+##### Após inserir seu email e senha clique em "Entrar"
 
-![Login](/img/Plataforma/senha.png)
+![Login](/img/Plataforma2/login3.png)
 
-### 5. Clique em "ENTRAR"
+#### Celular
+##### Após inserir seu celular e senha clique em "Entrar"
 
-![Login](/img/Plataforma/entrar.png)
+![Login](/img/Plataforma2/login4.png)
+
+#### Google:
+##### Clique em "continuar com o google" e siga passo a passo informado.
+
+![SignUp](/img/Plataforma2/criarcontagoogle.png)
+
+#### Facebook:
+##### Clique em "continuar com o Facebook" e siga passo a passo informado.
+
+![SignUp](/img/Plataforma2/criarcontaface.png)

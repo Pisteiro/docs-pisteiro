@@ -27,16 +27,6 @@ sidebar_position: 1
 
 ![SignUp](/img/Plataforma2/criarcontacel.png)
 
-#### Google:
-##### Clique em "continuar com o google" e siga passo a passo informado.
-
-![SignUp](/img/Plataforma2/criarcontagoogle.png)
-
-#### Facebook:
-##### Clique em "continuar com o Facebook" e siga passo a passo informado.
-
-![SignUp](/img/Plataforma2/criarcontaface.png)
-
 ### 4. Após efetuar o acesso clique em "Validar Conta" 
 
 ![SignUp](/img/Plataforma2/criarcontavalidar.png)

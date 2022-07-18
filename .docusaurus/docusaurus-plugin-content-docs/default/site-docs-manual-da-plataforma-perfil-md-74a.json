@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Manual da Plataforma/perfil",
+  "id": "Manual da Plataforma/perfil",
+  "isDocsHomePage": false,
+  "title": "PERFIL",
+  "description": "COMO FUNCIONA MEU PERFIIL",
+  "source": "@site/docs/Manual da Plataforma/perfil.md",
+  "sourceDirName": "Manual da Plataforma",
+  "slug": "/Manual da Plataforma/perfil",
+  "permalink": "/docs-pisteiro/Manual da Plataforma/perfil",
+  "editUrl": "https://github.com/Pisteiro/docs-pisteiro/docs/Manual da Plataforma/perfil.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LIGAS",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/ligas"
+  },
+  "next": {
+    "title": "RANKING",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/ranking"
+  }
+}

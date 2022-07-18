@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Manual da Plataforma/plataforma",
+  "id": "Manual da Plataforma/plataforma",
+  "isDocsHomePage": false,
+  "title": "PLATAFORMA",
+  "description": "COMO FUNCIONA A PLATAFORMA?",
+  "source": "@site/docs/Manual da Plataforma/plataforma.md",
+  "sourceDirName": "Manual da Plataforma",
+  "slug": "/Manual da Plataforma/plataforma",
+  "permalink": "/docs-pisteiro/Manual da Plataforma/plataforma",
+  "editUrl": "https://github.com/Pisteiro/docs-pisteiro/docs/Manual da Plataforma/plataforma.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RECUPERAR SENHA",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/recuperar"
+  },
+  "next": {
+    "title": "LIGAS",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/ligas"
+  }
+}

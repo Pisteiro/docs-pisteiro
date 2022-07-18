@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Manual da Plataforma/ligas",
+  "id": "Manual da Plataforma/ligas",
+  "isDocsHomePage": false,
+  "title": "LIGAS",
+  "description": "COMO ENTRAR LIGAS?",
+  "source": "@site/docs/Manual da Plataforma/ligas.md",
+  "sourceDirName": "Manual da Plataforma",
+  "slug": "/Manual da Plataforma/ligas",
+  "permalink": "/docs-pisteiro/Manual da Plataforma/ligas",
+  "editUrl": "https://github.com/Pisteiro/docs-pisteiro/docs/Manual da Plataforma/ligas.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PLATAFORMA",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/plataforma"
+  },
+  "next": {
+    "title": "PERFIL",
+    "permalink": "/docs-pisteiro/Manual da Plataforma/perfil"
+  }
+}
